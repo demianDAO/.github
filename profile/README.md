@@ -4,6 +4,8 @@ demianDAO(🏴‍☠️,🏴‍☠️).
 
 Share perspectives and insights in DAOs and engage more deeply in content sharing.
 
-Zero To One to realize the dApp on Dfinity(ICP). [Join DAOs](https://cmiki-zqaaa-aaaag-aabca-cai.raw.ic0.app/)
+In other words, since when cannot know our ultimate futures, we also cannot know how our choices will affect them. What matters is that we still get to choose. Any choice could be the right one, so long as you willingly embrace it. 
 
-ICP Development Course Overview: [IC dev dapp](https://www.figma.com/file/TyhKIQzPgBt8l2ofgq5dSE/ic-dev-dapp?node-id=0%3A1)
+Zero To One to realize the dApp on Dfinity(ICP). [Join DAOs](https://www.internetcomputer.wiki/)
+
+ICP Development Course Overview: [IC dev dapp](https://www.youtube.com/@kkdemian)
