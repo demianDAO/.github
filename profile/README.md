@@ -17,3 +17,5 @@ Web3和区块链基础: [加密货币科普](https://youtube.com/playlist?list=P
 模块化区块链学习: [模块化区块链](https://www.youtube.com/playlist?list=PLAUILZKYmr6ce5Byfr2P4DnZ5HiOzP437)
 
 Fuel指南: [Fuelwiki](https://www.fuelwiki.org/)
+
+Celestia中文文档: [Celestia Wiki](https://www.celestia.wiki/)
